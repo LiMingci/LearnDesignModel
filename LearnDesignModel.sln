@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DecoratorModel", "Decorator
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MementoModel", "MementoModel\MementoModel.vcxproj", "{BA11617B-703B-4FDE-B731-7F1AC342FC6E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CcCommandModel", "CcCommandModel\CcCommandModel.vcxproj", "{630364DB-AD6A-41AD-9C24-914C99099326}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{BA11617B-703B-4FDE-B731-7F1AC342FC6E}.Release|x64.Build.0 = Release|x64
 		{BA11617B-703B-4FDE-B731-7F1AC342FC6E}.Release|x86.ActiveCfg = Release|Win32
 		{BA11617B-703B-4FDE-B731-7F1AC342FC6E}.Release|x86.Build.0 = Release|Win32
+		{630364DB-AD6A-41AD-9C24-914C99099326}.Debug|x64.ActiveCfg = Debug|x64
+		{630364DB-AD6A-41AD-9C24-914C99099326}.Debug|x64.Build.0 = Debug|x64
+		{630364DB-AD6A-41AD-9C24-914C99099326}.Debug|x86.ActiveCfg = Debug|Win32
+		{630364DB-AD6A-41AD-9C24-914C99099326}.Debug|x86.Build.0 = Debug|Win32
+		{630364DB-AD6A-41AD-9C24-914C99099326}.Release|x64.ActiveCfg = Release|x64
+		{630364DB-AD6A-41AD-9C24-914C99099326}.Release|x64.Build.0 = Release|x64
+		{630364DB-AD6A-41AD-9C24-914C99099326}.Release|x86.ActiveCfg = Release|Win32
+		{630364DB-AD6A-41AD-9C24-914C99099326}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
