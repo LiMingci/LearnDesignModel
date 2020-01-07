@@ -9,7 +9,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DecoratorModel", "Decorator
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MementoModel", "MementoModel\MementoModel.vcxproj", "{BA11617B-703B-4FDE-B731-7F1AC342FC6E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CcCommandModel", "CcCommandModel\CcCommandModel.vcxproj", "{630364DB-AD6A-41AD-9C24-914C99099326}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CommandModel", "CcCommandModel\CcCommandModel.vcxproj", "{630364DB-AD6A-41AD-9C24-914C99099326}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TemplateMethodModel", "TemplateMethodModel\TemplateMethodModel.vcxproj", "{24A627AA-33D8-4A38-9D8C-5BD717E9B182}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,14 @@ Global
 		{630364DB-AD6A-41AD-9C24-914C99099326}.Release|x64.Build.0 = Release|x64
 		{630364DB-AD6A-41AD-9C24-914C99099326}.Release|x86.ActiveCfg = Release|Win32
 		{630364DB-AD6A-41AD-9C24-914C99099326}.Release|x86.Build.0 = Release|Win32
+		{24A627AA-33D8-4A38-9D8C-5BD717E9B182}.Debug|x64.ActiveCfg = Debug|x64
+		{24A627AA-33D8-4A38-9D8C-5BD717E9B182}.Debug|x64.Build.0 = Debug|x64
+		{24A627AA-33D8-4A38-9D8C-5BD717E9B182}.Debug|x86.ActiveCfg = Debug|Win32
+		{24A627AA-33D8-4A38-9D8C-5BD717E9B182}.Debug|x86.Build.0 = Debug|Win32
+		{24A627AA-33D8-4A38-9D8C-5BD717E9B182}.Release|x64.ActiveCfg = Release|x64
+		{24A627AA-33D8-4A38-9D8C-5BD717E9B182}.Release|x64.Build.0 = Release|x64
+		{24A627AA-33D8-4A38-9D8C-5BD717E9B182}.Release|x86.ActiveCfg = Release|Win32
+		{24A627AA-33D8-4A38-9D8C-5BD717E9B182}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
