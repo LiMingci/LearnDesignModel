@@ -22,6 +22,7 @@
     <ProjectGuid>{630364DB-AD6A-41AD-9C24-914C99099326}</ProjectGuid>
     <RootNamespace>CcCommandModel</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <ProjectName>CommandModel</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
